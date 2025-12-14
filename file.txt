@@ -1,4 +1,4 @@
-всем привет 
+всем привет
 update
 
 Спокойной ночи 
@@ -7,3 +7,4 @@ Add line
 2251
 new branch line
 new branch line
+new line for CUI
